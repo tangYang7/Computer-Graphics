@@ -1,0 +1,40 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl dents
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl dents__color_map_dents_png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd color-map-dents.png
+
+newmtl dragon
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.308198 0.038970 0.015397
+Ks 0.007177 0.004477 0.001597
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl oeil__color_map_eye_png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.018000 0.018000 0.018000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd color-map-eye.jpg
